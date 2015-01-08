@@ -1,5 +1,4 @@
-# Share
-Android 开源交流 QQ 群分享
+# Android 开源交流 QQ 群分享
 
 > 添加规范：  
 > `[简单介绍](链接) | 分享者 Github 或 QQ 昵称等`
